@@ -1,0 +1,100 @@
+{"id": "t-001", "text": "Draft an email to the client about the renewal timeline", "label": "draft_email", "trap": false}
+{"id": "t-002", "text": "Can you write an email to HR asking about my leave balance", "label": "draft_email", "trap": true}
+{"id": "t-003", "text": "Compose a reply to Anita thanking her for the claim documents", "label": "draft_email", "trap": true}
+{"id": "t-004", "text": "Write a polite email declining the meeting on Friday", "label": "draft_email", "trap": true}
+{"id": "t-005", "text": "Help me email the broker that the policy documents are ready", "label": "draft_email", "trap": true}
+{"id": "t-006", "text": "Draft a follow-up mail to the insurer about the pending claim", "label": "draft_email", "trap": true}
+{"id": "t-007", "text": "I need to send an email to the team summarizing today's call", "label": "draft_email", "trap": true}
+{"id": "t-008", "text": "Write to the client explaining why the premium went up", "label": "draft_email", "trap": false}
+{"id": "t-009", "text": "Prepare an email inviting everyone to the benefits webinar", "label": "draft_email", "trap": true}
+{"id": "t-010", "text": "Reply to the underwriter's email and ask for the loss runs", "label": "draft_email", "trap": false}
+{"id": "t-011", "text": "Draft an email", "label": "draft_email", "trap": false}
+{"id": "t-012", "text": "Can you put together a quick email to Vikram asking for the signed document", "label": "draft_email", "trap": true}
+{"id": "t-013", "text": "Email the claimant that we need two more documents to process the claim", "label": "draft_email", "trap": true}
+{"id": "t-014", "text": "Write an out-of-office email for next week", "label": "draft_email", "trap": false}
+{"id": "t-015", "text": "Find the latest version of the Acme renewal deck", "label": "search_documents", "trap": false}
+{"id": "t-016", "text": "Where is the email template for claim rejections?", "label": "search_documents", "trap": true}
+{"id": "t-017", "text": "Search SharePoint for the 2025 broking market report", "label": "search_documents", "trap": false}
+{"id": "t-018", "text": "Locate the document that lists our approved email signatures", "label": "search_documents", "trap": true}
+{"id": "t-019", "text": "Pull up the slides from last week's client meeting", "label": "search_documents", "trap": true}
+{"id": "t-020", "text": "Show me files about cyber insurance for small businesses", "label": "search_documents", "trap": false}
+{"id": "t-021", "text": "Find the PDF guide on filing a reimbursement claim", "label": "search_documents", "trap": true}
+{"id": "t-022", "text": "Get me the onboarding checklist document", "label": "search_documents", "trap": false}
+{"id": "t-023", "text": "Find the training deck on writing client emails", "label": "search_documents", "trap": true}
+{"id": "t-024", "text": "Where can I find the meeting notes template?", "label": "search_documents", "trap": true}
+{"id": "t-025", "text": "Search for the contract we signed with Zenith Logistics", "label": "search_documents", "trap": false}
+{"id": "t-026", "text": "Find all documents mentioning the Mumbai flood claims", "label": "search_documents", "trap": true}
+{"id": "t-027", "text": "Look up the presentation on employee benefits trends", "label": "search_documents", "trap": true}
+{"id": "t-028", "text": "I'm looking for the SLA document for the claims team", "label": "search_documents", "trap": true}
+{"id": "t-029", "text": "How many days of paternity leave do I get?", "label": "policy_lookup", "trap": false}
+{"id": "t-030", "text": "Does our group health insurance cover my parents?", "label": "policy_lookup", "trap": false}
+{"id": "t-031", "text": "What's the policy on working from home?", "label": "policy_lookup", "trap": false}
+{"id": "t-032", "text": "Am I eligible for the gratuity payout after 4 years?", "label": "policy_lookup", "trap": false}
+{"id": "t-033", "text": "Is IVF covered under the employee medical plan?", "label": "policy_lookup", "trap": false}
+{"id": "t-034", "text": "What is the reimbursement limit for internet bills?", "label": "policy_lookup", "trap": false}
+{"id": "t-035", "text": "Can I carry forward unused annual leave to next year?", "label": "policy_lookup", "trap": false}
+{"id": "t-036", "text": "What does the travel policy say about business class?", "label": "policy_lookup", "trap": false}
+{"id": "t-037", "text": "Is there a notice period if I resign during probation?", "label": "policy_lookup", "trap": false}
+{"id": "t-038", "text": "Does the company match contributions to the provident fund?", "label": "policy_lookup", "trap": false}
+{"id": "t-039", "text": "What's the dress code policy for client visits?", "label": "policy_lookup", "trap": false}
+{"id": "t-040", "text": "How much is the maternity benefit under our policy?", "label": "policy_lookup", "trap": false}
+{"id": "t-041", "text": "Are dental treatments covered by insurance?", "label": "policy_lookup", "trap": false}
+{"id": "t-042", "text": "Do I need manager approval to expense a client dinner?", "label": "policy_lookup", "trap": false}
+{"id": "t-043", "text": "What's the status of my medical claim from last month?", "label": "claim_status", "trap": false}
+{"id": "t-044", "text": "Has claim CLM-48213 been approved yet?", "label": "claim_status", "trap": false}
+{"id": "t-045", "text": "Track the reimbursement I submitted for my hospital bill", "label": "claim_status", "trap": false}
+{"id": "t-046", "text": "Why is my claim still pending?", "label": "claim_status", "trap": false}
+{"id": "t-047", "text": "Check whether the insurer has settled the warehouse fire claim", "label": "claim_status", "trap": false}
+{"id": "t-048", "text": "Did my dental reimbursement go through?", "label": "claim_status", "trap": true}
+{"id": "t-049", "text": "Where is my claim stuck?", "label": "claim_status", "trap": false}
+{"id": "t-050", "text": "Any update on claim number 77120?", "label": "claim_status", "trap": false}
+{"id": "t-051", "text": "Has the payout for my car accident claim been processed?", "label": "claim_status", "trap": false}
+{"id": "t-052", "text": "Is my cashless hospitalization claim approved?", "label": "claim_status", "trap": false}
+{"id": "t-053", "text": "Show the current stage of the Zenith marine claim", "label": "claim_status", "trap": false}
+{"id": "t-054", "text": "When will my submitted claim be paid?", "label": "claim_status", "trap": false}
+{"id": "t-055", "text": "Book a 30-minute call with the client next Tuesday", "label": "schedule_meeting", "trap": false}
+{"id": "t-056", "text": "Schedule a meeting with Priya and Rahul tomorrow at 3", "label": "schedule_meeting", "trap": false}
+{"id": "t-057", "text": "Set up a review of the renewal document with the team on Friday", "label": "schedule_meeting", "trap": true}
+{"id": "t-058", "text": "Find a slot for a claims review meeting this week", "label": "schedule_meeting", "trap": true}
+{"id": "t-059", "text": "Reschedule my 4 pm meeting to Thursday", "label": "schedule_meeting", "trap": false}
+{"id": "t-060", "text": "Put a 1:1 with my manager on the calendar", "label": "schedule_meeting", "trap": false}
+{"id": "t-061", "text": "Arrange a call with the insurer to discuss the policy terms", "label": "schedule_meeting", "trap": true}
+{"id": "t-062", "text": "Can you organize a benefits Q&A session for the team next month?", "label": "schedule_meeting", "trap": true}
+{"id": "t-063", "text": "Block 2 hours on Wednesday for the email migration workshop", "label": "schedule_meeting", "trap": true}
+{"id": "t-064", "text": "Invite the underwriting team to a sync on Monday", "label": "schedule_meeting", "trap": false}
+{"id": "t-065", "text": "Move the client presentation meeting to next week", "label": "schedule_meeting", "trap": true}
+{"id": "t-066", "text": "Set a meeting to go over the claim backlog", "label": "schedule_meeting", "trap": true}
+{"id": "t-067", "text": "Summarize the attached renewal proposal", "label": "summarize_document", "trap": false}
+{"id": "t-068", "text": "Give me a TL;DR of this 40-page policy wording", "label": "summarize_document", "trap": true}
+{"id": "t-069", "text": "What are the key points in the claims report I just uploaded?", "label": "summarize_document", "trap": true}
+{"id": "t-070", "text": "Condense the meeting transcript into five bullets", "label": "summarize_document", "trap": true}
+{"id": "t-071", "text": "Summarize this email thread for me", "label": "summarize_document", "trap": true}
+{"id": "t-072", "text": "Can you shorten this contract into a one-paragraph overview?", "label": "summarize_document", "trap": false}
+{"id": "t-073", "text": "Give me the highlights of the market outlook PDF", "label": "summarize_document", "trap": false}
+{"id": "t-074", "text": "Break down the main takeaways from this benefits survey document", "label": "summarize_document", "trap": true}
+{"id": "t-075", "text": "Summarize the underwriter's comments in this doc", "label": "summarize_document", "trap": false}
+{"id": "t-076", "text": "What does this attached document say, in brief?", "label": "summarize_document", "trap": false}
+{"id": "t-077", "text": "Make a short summary of the board meeting minutes", "label": "summarize_document", "trap": true}
+{"id": "t-078", "text": "Recap this policy document in plain language", "label": "summarize_document", "trap": true}
+{"id": "t-079", "text": "email", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-080", "text": "the renewal deck", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-081", "text": "claims policy", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-082", "text": "Priya's email about the renewal", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-083", "text": "Acme meeting", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-084", "text": "leave", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-085", "text": "Help with the Zenith claim", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-086", "text": "insurance", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-087", "text": "the benefits document", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-088", "text": "Can you help me with the client email?", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-089", "text": "meeting notes from Monday", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-090", "text": "renewal", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-091", "text": "I need something about dental", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-092", "text": "client follow-up", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-093", "text": "Handle the reimbursement", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-094", "text": "Sort out tomorrow's call with Rahul", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-095", "text": "the contract", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-096", "text": "policy wording for Acme", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-097", "text": "What about my claim and the leave policy?", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-098", "text": "help", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-099", "text": "travel", "label": "AMBIGUOUS", "trap": false}
+{"id": "t-100", "text": "Do the thing for the insurer", "label": "AMBIGUOUS", "trap": false}

@@ -1,0 +1,4 @@
+scikit-learn>=1.5
+numpy>=1.26
+gradio>=5.0
+pytest>=8.0

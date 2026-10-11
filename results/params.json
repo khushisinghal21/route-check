@@ -1,0 +1,5 @@
+{
+  "min_confidence": 0.7,
+  "min_margin": 0.0,
+  "cue_weight": 0.7
+}

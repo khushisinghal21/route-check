@@ -1,0 +1,46 @@
+{"id": "d-001", "text": "Write an email to Neha confirming the policy start date", "label": "draft_email", "trap": true}
+{"id": "d-002", "text": "Draft a message to the client asking for their claims history", "label": "draft_email", "trap": true}
+{"id": "d-003", "text": "Compose an email to the team about the new document portal", "label": "draft_email", "trap": true}
+{"id": "d-004", "text": "Reply to Arjun and say I can't make the meeting", "label": "draft_email", "trap": true}
+{"id": "d-005", "text": "Send a thank-you email to the insurer", "label": "draft_email", "trap": false}
+{"id": "d-006", "text": "Write a short note to finance about the delayed invoice", "label": "draft_email", "trap": false}
+{"id": "d-007", "text": "Find the claims escalation matrix document", "label": "search_documents", "trap": true}
+{"id": "d-008", "text": "Where's the policy wording template for marine cover?", "label": "search_documents", "trap": true}
+{"id": "d-009", "text": "Search for last quarter's renewal tracker", "label": "search_documents", "trap": false}
+{"id": "d-010", "text": "Pull up the email etiquette guide", "label": "search_documents", "trap": true}
+{"id": "d-011", "text": "Locate the minutes from the Tuesday meeting", "label": "search_documents", "trap": true}
+{"id": "d-012", "text": "Get the client onboarding deck", "label": "search_documents", "trap": false}
+{"id": "d-013", "text": "How many sick days am I allowed per year?", "label": "policy_lookup", "trap": false}
+{"id": "d-014", "text": "Is my spouse covered under the health plan?", "label": "policy_lookup", "trap": false}
+{"id": "d-015", "text": "What's the rule for claiming overtime?", "label": "policy_lookup", "trap": true}
+{"id": "d-016", "text": "Can I take leave during my notice period?", "label": "policy_lookup", "trap": false}
+{"id": "d-017", "text": "Does the policy cover maternity for adoptions?", "label": "policy_lookup", "trap": false}
+{"id": "d-018", "text": "What's the limit on meal expenses when travelling?", "label": "policy_lookup", "trap": false}
+{"id": "d-019", "text": "Has my eye surgery claim been settled?", "label": "claim_status", "trap": false}
+{"id": "d-020", "text": "What stage is claim 55021 at?", "label": "claim_status", "trap": false}
+{"id": "d-021", "text": "Is my travel reimbursement still under review?", "label": "claim_status", "trap": false}
+{"id": "d-022", "text": "Check if the Acme property claim was paid", "label": "claim_status", "trap": false}
+{"id": "d-023", "text": "Did the insurer approve my outpatient claim?", "label": "claim_status", "trap": false}
+{"id": "d-024", "text": "Status of my pharmacy reimbursement please", "label": "claim_status", "trap": false}
+{"id": "d-025", "text": "Schedule a call with the broker on Thursday morning", "label": "schedule_meeting", "trap": false}
+{"id": "d-026", "text": "Book a room for the claims team huddle", "label": "schedule_meeting", "trap": true}
+{"id": "d-027", "text": "Set up a policy walkthrough with the new joiners", "label": "schedule_meeting", "trap": true}
+{"id": "d-028", "text": "Push my 11 am to the afternoon", "label": "schedule_meeting", "trap": false}
+{"id": "d-029", "text": "Add a renewal planning session to everyone's calendar", "label": "schedule_meeting", "trap": false}
+{"id": "d-030", "text": "Arrange a meeting to review the email campaign", "label": "schedule_meeting", "trap": true}
+{"id": "d-031", "text": "Summarize the uploaded policy schedule", "label": "summarize_document", "trap": true}
+{"id": "d-032", "text": "Key takeaways from this claims audit, please", "label": "summarize_document", "trap": true}
+{"id": "d-033", "text": "Shorten this email chain into the main decisions", "label": "summarize_document", "trap": true}
+{"id": "d-034", "text": "Give me a summary of the attached meeting notes", "label": "summarize_document", "trap": true}
+{"id": "d-035", "text": "TL;DR this renewal proposal", "label": "summarize_document", "trap": false}
+{"id": "d-036", "text": "Boil down this 20-page report to three points", "label": "summarize_document", "trap": false}
+{"id": "d-037", "text": "claims", "label": "AMBIGUOUS", "trap": false}
+{"id": "d-038", "text": "the Acme deck", "label": "AMBIGUOUS", "trap": false}
+{"id": "d-039", "text": "my leave", "label": "AMBIGUOUS", "trap": false}
+{"id": "d-040", "text": "the email from the underwriter", "label": "AMBIGUOUS", "trap": false}
+{"id": "d-041", "text": "Monday's meeting", "label": "AMBIGUOUS", "trap": false}
+{"id": "d-042", "text": "benefits", "label": "AMBIGUOUS", "trap": false}
+{"id": "d-043", "text": "the policy document", "label": "AMBIGUOUS", "trap": false}
+{"id": "d-044", "text": "Rahul", "label": "AMBIGUOUS", "trap": false}
+{"id": "d-045", "text": "Do something with this renewal", "label": "AMBIGUOUS", "trap": false}
+{"id": "d-046", "text": "help me with the claim and the email", "label": "AMBIGUOUS", "trap": false}

@@ -1,0 +1,66 @@
+{
+  "params": {
+    "min_confidence": 0.7,
+    "min_margin": 0.0,
+    "cue_weight": 0.7
+  },
+  "results": {
+    "Keyword similarity (baseline)": {
+      "clear_accuracy": 0.5384615384615384,
+      "clear_wrong_tool": 0.46153846153846156,
+      "clear_clarified": 0.0,
+      "trap_accuracy": 0.36363636363636365,
+      "trap_wrong_tool": 0.6363636363636364,
+      "amb_clarified": 0.0,
+      "amb_guessed": 1.0,
+      "confident_wrong": 0.58,
+      "correct_behaviour": 0.42,
+      "counts": {
+        "total": 100,
+        "clear": 78,
+        "traps": 33,
+        "ambiguous": 22,
+        "wrong_tool": 36,
+        "guessed": 22
+      }
+    },
+    "Intent classifier, always routes": {
+      "clear_accuracy": 0.9487179487179487,
+      "clear_wrong_tool": 0.05128205128205128,
+      "clear_clarified": 0.0,
+      "trap_accuracy": 0.8787878787878788,
+      "trap_wrong_tool": 0.12121212121212122,
+      "amb_clarified": 0.0,
+      "amb_guessed": 1.0,
+      "confident_wrong": 0.26,
+      "correct_behaviour": 0.74,
+      "counts": {
+        "total": 100,
+        "clear": 78,
+        "traps": 33,
+        "ambiguous": 22,
+        "wrong_tool": 4,
+        "guessed": 22
+      }
+    },
+    "RouteCheck": {
+      "clear_accuracy": 0.9871794871794872,
+      "clear_wrong_tool": 0.0,
+      "clear_clarified": 0.01282051282051282,
+      "trap_accuracy": 0.9696969696969697,
+      "trap_wrong_tool": 0.0,
+      "amb_clarified": 0.8636363636363636,
+      "amb_guessed": 0.13636363636363635,
+      "confident_wrong": 0.03,
+      "correct_behaviour": 0.96,
+      "counts": {
+        "total": 100,
+        "clear": 78,
+        "traps": 33,
+        "ambiguous": 22,
+        "wrong_tool": 0,
+        "guessed": 3
+      }
+    }
+  }
+}
